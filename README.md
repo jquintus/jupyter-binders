@@ -1,7 +1,7 @@
 # jupyter-binders [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jquintus/jupyter-binders/HEAD)
 
 
-Repo to use with https://mybinder.org/
+[Open in Jupyter Labs](https://mybinder.org/v2/gh/jquintus/jupyter-binders/HEAD?urlpath=lab)
 
 ## Notebooks
 
