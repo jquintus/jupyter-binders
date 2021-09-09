@@ -8,5 +8,5 @@ This will work with the newer version of [Jupyter Labs](https://mybinder.org/v2/
 
 # Notebooks in this repo
 
-* Creating diagrams in Python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jquintus/jupyter-binders/HEAD?filepath=sample_diagram.ipynb)
+* Creating diagrams in Python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jquintus/jupyter-binders/HEAD?filepath=sample_diagram/sample_diagram.ipynb)
 
